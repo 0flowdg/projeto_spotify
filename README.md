@@ -15,3 +15,6 @@ Esta é uma landing page projetada para replicar a estética e a funcionalidade 
 - **Bootstrap**: Framework CSS para design responsivo e componentes prontos
 - **Font Awesome**: Ícones para uma melhor apresentação visual
 
+
+## 👇 Veja o link do projeto aqui!
+https://projeto-spotify-psi.vercel.app/

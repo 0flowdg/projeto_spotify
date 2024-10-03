@@ -6,7 +6,6 @@ Esta é uma landing page projetada para replicar a estética e a funcionalidade 
 
 - Layout responsivo para dispositivos móveis e desktop
 - Estilização utilizando Bootstrap para facilitar a implementação de componentes
-- Seções de apresentação, recursos e rodapé com links relevantes
 
 ## 🚀 Tecnologias Utilizadas
 
